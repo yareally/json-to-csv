@@ -1,0 +1,15 @@
+Converts JSON objects into comma separated value data based on predetermined data/headers to parse in the JSON.
+
+See Scala and Java examples for usage.
+
+If using the jar, all dependencies are already compiled into it. The jar is compiled mainly for Java usage.
+
+If using the source, all dependencies located under libs are required to build it.
+
+** Use only one directory set of dependencies located under libs as any other directory is a duplicate with older/newer sources **
+
+Currently, Milestone 2 of the Play Framework is being used as it's the most stable while being newish.
+
+Jar Usage: requires Java 1.6+ or Scala 2.10+
+
+Source Usage: requires Scala 2.10+
